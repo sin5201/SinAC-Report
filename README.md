@@ -1,2 +1,2 @@
 # SinAC-Report
-Issuse
+Issues
